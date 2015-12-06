@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dance Frenzy</string>
+    <string name="pick_device">Please Pick The Arduino Device</string>
+</resources>

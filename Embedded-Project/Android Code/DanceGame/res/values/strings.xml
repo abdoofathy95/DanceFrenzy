@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DanceGame</string>
+    <string name="start_game">Play!</string>
+    <string name="exit_game">Quit</string>
+    <string name="pick_device">Please Pick The Arduino Device</string>
+</resources>
